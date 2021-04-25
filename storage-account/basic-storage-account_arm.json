@@ -6,7 +6,7 @@
       "name": "psarm",
       "version": "0.1.0.0",
       "psarm-psversion": "7.1.3",
-      "templateHash": "4655340751744631335"
+      "templateHash": "2241382107264433106"
     }
   },
   "resources": [
@@ -24,7 +24,7 @@
           "contentVersion": "1.0.0.0",
           "resources": [
             {
-              "name": "stgacctpsarmdemo",
+              "name": "stpsarmdemo3337",
               "apiVersion": "2021-01-01",
               "type": "Microsoft.Storage/storageAccounts",
               "kind": "StorageV2",
