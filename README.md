@@ -1,0 +1,2 @@
+# PSArm Examples
+This repository contains examples of PowerShell scripts using the new [PSArm module](https://github.com/powershell/psarm) from Microsoft. PSArm is a domain-specific language (DSL) used for writing Azure Resource Manager (ARM) templates. Essentially, you can use PowerShell commands and syntax to build ARM templates.
